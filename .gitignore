@@ -8,3 +8,5 @@ data/enroll/*
 data/debug_aligned/
 outputs/
 data/backups/
+config.bat
+node_modules
